@@ -1,6 +1,8 @@
 ### NAME : SRIYALINE R
 ### REG NO : 24006194
+
 # EXPERIMENT 1: Study of logicgates
+
 # AIM
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -73,13 +75,16 @@ Y= A⊕B
 ![Truthtable](https://github.com/user-attachments/assets/5226bd5d-c2b5-45e6-93c7-a0cf5908c863)
 
 
+
 # RTL OUTPUT
 
 ![Screenshot 2024-10-29 225754](https://github.com/user-attachments/assets/efe3ffcc-925b-4b7b-b52b-b223877aa650)
 
+
 # OUTPUT WAVEFORM
 
 ![Screenshot 2024-10-29 230149](https://github.com/user-attachments/assets/4abf6e95-0c3a-4788-9219-a7d549e8e44a)
+
 
 
 # RESULT
