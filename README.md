@@ -1,7 +1,7 @@
 ### NAME : SRIYALINE R
 ### REG NO : 24006194
 
-# EXPERIMENT 1: Study of logicgates
+# EXPERIMENT 1: STUDY OF LOGICGATES
 
 # AIM
 
